@@ -17,6 +17,13 @@
 <a href="mailto:itzmoksh01@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://instagram.com/moksh.ai.studio"><img src="https://img.shields.io/badge/Instagram-@moksh.ai.studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=itzmoksh01&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/><br/>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-7C3AED?style=flat-square" alt="About"/></a>
+<a href="#-my-automation-blueprint"><img src="https://img.shields.io/badge/Blueprint-7C3AED?style=flat-square" alt="Blueprint"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square" alt="Projects"/></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Stack-7C3AED?style=flat-square" alt="Stack"/></a>
+<a href="#-moksh-ai-studio"><img src="https://img.shields.io/badge/Studio-7C3AED?style=flat-square" alt="Studio"/></a>
+<a href="#-work-with-me"><img src="https://img.shields.io/badge/Work_With_Me-06B6D4?style=flat-square" alt="Work with me"/></a>
 
 <br/><br/>
 
