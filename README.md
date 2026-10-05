@@ -29,19 +29,6 @@
 
 <br/>
 
-```ts
-const abhishek = {
-  role: "Generative AI Specialist · AI Automation Engineer · AI Agent Builder",
-  studio: "Moksh AI Studio",
-  builds: ["AI automation systems", "AI agents", "Gen AI video & content", "production web apps"],
-  principles: ["idempotent", "resume-safe", "human-in-the-loop", "dry-run before live"],
-  stack: ["TypeScript", "Python", "Claude API", "n8n", "Playwright", "React"],
-  currentlyBuilding: "AI sales lead-gen & outreach engine",
-  openTo: ["AI Automation roles", "AI Agent roles", "Generative AI roles", "freelance projects"],
-  from: "India",
-};
-```
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/IBM_Generative_AI_Engineering-Professional_Certificate-0F62FE?style=for-the-badge" alt="IBM Generative AI Engineering Professional Certificate"/>
