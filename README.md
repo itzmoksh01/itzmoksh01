@@ -11,7 +11,7 @@
   </picture>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/itzabhishek"><img src="https://img.shields.io/badge/LinkedIn-itzabhishek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:itzmoksh01@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -40,7 +40,7 @@ const abhishek = {
   stack: ["TypeScript", "Python", "Claude API", "n8n", "Playwright", "React"],
   currentlyBuilding: "AI sales lead-gen & outreach engine",
   openTo: ["AI Automation roles", "AI Agent roles", "Generative AI roles", "freelance projects"],
-  from: "India 🇮🇳",
+  from: "India",
 };
 ```
 
@@ -419,6 +419,13 @@ Responsive React / TypeScript products, from booking flows to internal trackers.
 <a href="mailto:itzmoksh01@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://instagram.com/moksh.ai.studio"><img src="https://img.shields.io/badge/Follow-Moksh_AI_Studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzmoksh01/itzmoksh01/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzmoksh01/itzmoksh01/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/itzmoksh01/itzmoksh01/output/github-snake.svg"/>
+  </picture>
 </div>
 
 <!--
